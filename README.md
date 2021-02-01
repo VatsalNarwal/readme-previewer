@@ -27,6 +27,7 @@ Please make sure to update tests as appropriate.
 
  ## Note
 The API Behind the scenes is made in Typescript and then Compiled to Javascript.
+You can find the build version of it at [readme.yashraj-narke.tech](https://readme.yashraj-narke.tech/)
 
 It's not recommended to use that API, if you want the Typescript version, Dm me on Twitter
 
